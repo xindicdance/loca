@@ -2,17 +2,6 @@
 title: performance by Xindi Cao
 ---
 
-This is another boring performance.
-
-{% include video.html id="MHtyB4peW4c?si=2La9_aZYVEPvFeSu" title="Performances by Xindi Cao 2020-2022" %}
-
-
-<br/>
-<br/>
-
-
-Portfolio  
-<https://youtu.be/MHtyB4peW4c?si=f1CHmJusCN6KyYdn>
 
 <br/>
   
@@ -21,7 +10,8 @@ Portfolio
 a lecture-performance  
 in collaboration with Julio Maquilón
 
-I have a friend from Ecuador. The first time I visited his room, I noticed he had hung his country's national flag on the wall beside his bed. I was shocked, "I can’t fall asleep with my national flag in my bedroom."  
+I have a friend from Ecuador. The first time I visited his room, I noticed he had hung his country's national flag on the wall beside his bed. I was shocked, "I can’t fall asleep with my national flag in my bedroom." 
+{% include figure.html image=(assets/img/bubble1.jpg) caption="Image with caption" width="300" height="800" %}
 ![](assets/img/bubble1.jpg)
 ![](assets/img/bubble2.jpg)
 photo by Usman
