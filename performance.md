@@ -3,16 +3,12 @@ title: performance by Xindi Cao
 ---
 
 
-<br/>
-  
 ### Yeee, Bubbles disappear
 05/2023, Trondheim, Norway  
 a lecture-performance  
 in collaboration with Julio Maquilón
 
 I have a friend from Ecuador. The first time I visited his room, I noticed he had hung his country's national flag on the wall beside his bed. I was shocked, "I can’t fall asleep with my national flag in my bedroom." 
-{% include figure.html image="https://picsum.photos/600/800?image=894" caption="Image with caption" width="300" height="800" %}
-{% include figure.html image=(assets/img/bubble1.jpg) caption="Image with caption" width="300" height="800" %}
 ![](assets/img/bubble1.jpg)
 ![](assets/img/bubble2.jpg)
 photo by Usman
