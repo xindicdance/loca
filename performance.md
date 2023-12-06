@@ -13,6 +13,11 @@ in collaboration with Julio Maquilón
 {% include figure.html image="assets/img/bubble1.jpg" caption="Right aligned image" position="right" width="300" height="800" %}
 
 I have a friend from Ecuador. The first time I visited his room, I noticed he had hung his country's national flag on the wall beside his bed. I was shocked, "I can’t fall asleep with my national flag in my bedroom." 
+
+{% include video.html id="4FrerFcIpGI" title="trailer" %}
+
+https://youtu.be/4FrerFcIpGI
+
 ![](assets/img/bubble1.jpg)
 ![](assets/img/bubble2.jpg)
 photo by Usman
@@ -34,8 +39,6 @@ photo by Arne Hauge
 ### The Wheel
 10/2022, Trondheim, Norway  
 Concept/Choreographer/Performer/Installation designer
-
-{% include figure.html image="assets/img/wheel1.PNG" caption="Image with caption" width="300" height="800" %}
 
 ![](assets/img/wheel1.PNG)
 ![](assets/img/wheel2.PNG)
@@ -110,8 +113,8 @@ concept, choreographer, performer
 08/2020, 14-day Ripples Artist Residence Program, Beijing, China  
 concept, choreographer, performer  
 
+{% include video.html id="QGrIBp6D-Wo" title="Siteleaf tutorial video" %}
  <https://youtu.be/QGrIBp6D-Wo>
- ![](assets/img/gudao.png)
 
 <br/> 
 <br/>
@@ -121,8 +124,8 @@ concept, choreographer, performer
 06/2021 Hyper Youth Award, Beijing, China  
 concept, choreographer, composer, performer 
 
+{% include video.html id="hw6YEA80sGQ" title="Siteleaf tutorial video" %}
 <https://youtu.be/hw6YEA80sGQ>
- ![](assets/img/howi.png)
 
 <br/> 
 <br/>
