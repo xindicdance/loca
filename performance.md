@@ -34,6 +34,9 @@ photo by Arne Hauge
 ### The Wheel
 10/2022, Trondheim, Norway  
 Concept/Choreographer/Performer/Installation designer
+
+{% include figure.html image="assets/img/wheel1.PNG" caption="Image with caption" width="300" height="800" %}
+
 ![](assets/img/wheel1.PNG)
 ![](assets/img/wheel2.PNG)
 
