@@ -40,6 +40,8 @@ navigation_header:
   url: /about/
 - title: Performance
   url: /performance/
+- title: Categories
+  url: /categories/
 - title: Writing
   url: /blog/
 
