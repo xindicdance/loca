@@ -14,10 +14,6 @@ in collaboration with Julio Maquilón
 
 I have a friend from Ecuador. The first time I visited his room, I noticed he had hung his country's national flag on the wall beside his bed. I was shocked, "I can’t fall asleep with my national flag in my bedroom." 
 
-{% include video.html id="4FrerFcIpGI" title="trailer" %}
-
-https://youtu.be/4FrerFcIpGI
-
 ![](assets/img/bubble1.jpg)
 ![](assets/img/bubble2.jpg)
 photo by Usman
@@ -66,7 +62,10 @@ concept, choreographer, performer
 The reality runs through my body*  
 How do people’s thinking  connect with their bodies’ senses?  
 How does the change from the subject-object dichotomous epistemology to the unified phenomenological method relate to the body transition in the history of philosophy?  
-How can a person become unified? Is the body a channel?  
+How can a person become unified? Is the body a channel? 
+
+{% include video.html id="m_dBajSVhbo" title="trailer" %}
+
 ![](assets/img/river1.png)
 ![](assets/img/river2.png)
 
@@ -80,6 +79,9 @@ How can a person become unified? Is the body a channel?
 concept, director, choreographer, performer  
 
 *Whitening, Brainwashing, Heart Cleaning—Our World is Bright and Beautiful.*
+
+{% include video.html id="gZwtHeyvyuI" title="trailer" %}
+
 ![](assets/img/wash2.png)
 
 <br/> 
@@ -91,6 +93,9 @@ concept, director, choreographer, performer
 concept, choreographer, performer  
 
 “Zhi Xing He Yi” is a philosophical idea of Wang Yangming, who was a thinker in China Ming Dynasty. I intentionally  misused it as the title of this work to show the irony —- the unity of knowledge and action (translated literally).
+
+{% include video.html id="oBIcQ5O_HRA" title="trailer" %}
+
 ![image zhixingheyi](/assets/img/zhixingheyi.png)
 
 <br/> 
@@ -114,7 +119,6 @@ concept, choreographer, performer
 concept, choreographer, performer  
 
 {% include video.html id="QGrIBp6D-Wo" title="Siteleaf tutorial video" %}
- <https://youtu.be/QGrIBp6D-Wo>
 
 <br/> 
 <br/>
@@ -125,7 +129,6 @@ concept, choreographer, performer
 concept, choreographer, composer, performer 
 
 {% include video.html id="hw6YEA80sGQ" title="Siteleaf tutorial video" %}
-<https://youtu.be/hw6YEA80sGQ>
 
 <br/> 
 <br/>
