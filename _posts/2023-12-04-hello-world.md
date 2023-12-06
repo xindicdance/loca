@@ -1,7 +1,7 @@
 ---
 title: 好像想要提前写一篇临别赠言
 categories:
-- General
+- Random things
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 
