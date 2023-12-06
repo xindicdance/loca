@@ -1,7 +1,7 @@
 ---
 title: 秋意的流转——马勒《大地之歌》里的秋天
 categories:
-- Aesthetics
+- Philosophy/Aesthetics
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 
