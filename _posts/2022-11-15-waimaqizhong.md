@@ -1,7 +1,7 @@
 ---
 title: 自我演进的世界——阿多诺论自律艺术的介入性
 categories:
-- Philosophy
+- Philosophy/Aesthetics
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 
